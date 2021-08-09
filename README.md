@@ -40,8 +40,8 @@ results.show()
 The trained pig detection model metrics/mAP_0.5 is 78.4%, metrics/mAP_0.5:0.95 is 33.0%, metrics/precision is 78.5%, metrics/recall is 70.7%. The measured results are as follows:
 </p>
 <p>
-<img width="850" src="https://github.com/helonggood/pig_detection/images/8_origin.jpg"></a>
-<img width="850" src="https://github.com/helonggood/pig_detection/images/8_detected.jpg"></a>
+<img width="850" src="https://github.com/helonggood/pig_detection/blob/main/images/8_origin.jpg"></a>
+<img width="850" src="https://github.com/helonggood/pig_detection/blob/main/images/8_detected.jpg"></a>
 </p>
 <br>
 
