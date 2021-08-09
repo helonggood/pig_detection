@@ -24,6 +24,7 @@
 
 ```python
 import torch
+from PIL import Image
 img = Image.open('your/path/to/images/8_origin.jpg')
 # load model
 model = torch.hub.load('ultralytics/yolov5', 'custom', path='your/path/to/model_file/last.pt')
