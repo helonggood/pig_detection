@@ -11,7 +11,7 @@
 <details open>
 <summary>Introduce</summary>
 <p>
-	The model_file "last.pt" has been trained for applying pig detection, it's based on yolov5s and you can use it directly without wasting a lot of time to train, first you should download the latest origin code from following "yolov5 code" url:
+	The model_file "last.pt" has been trained for pig detection, it's based on yolov5s and you can use it directly without wasting a lot of time to train, first you should download the latest origin code from following "yolov5 code" url:
 </p>
 <a href="https://github.com/ultralytics/yolov5">yolov5 code</a>
 </details>
@@ -19,7 +19,7 @@
 <details open>
 <summary>How to use</summary>
 <p>
-	Under the yolov5 project file, you can use this trained pig detection model using following example code:
+	Under the yolov5 project file, you can use this trained pig detection model by following example code:
 </p>
 
 ```python
